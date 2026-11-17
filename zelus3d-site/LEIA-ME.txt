@@ -1,0 +1,7 @@
+ZELUS3D — SITE REDESENHADO
+
+Abra index.html no navegador mantendo as pastas css, js e assets.
+O objeto 3D usa Three.js via CDN; requer internet. Se a biblioteca não carregar, o cubo CSS de fallback continua visível.
+
+Foram preservados os dados do site original: telefone, WhatsApp, endereço, Google Maps, horários e avaliação 5.0/7.
+A galeria contém imagens conceituais ilustrativas. Não foi inventado catálogo factual de serviços, preços ou depoimentos.
